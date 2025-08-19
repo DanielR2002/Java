@@ -1,2 +1,2 @@
 # Java
-Listas da Faculdade
+Lista academica
